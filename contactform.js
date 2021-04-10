@@ -4,7 +4,7 @@
  * Last Updated: July 30, 2019
  * Author: Việt Blogger
  * Author URI: fb.com/kequaduongvodanh
- * Website: www.thietkeblogspot.com
+ * Website: www.xemayvinhtruong.vn
  */
  
 $('.input-text.focus,.input-dropdown,.arrow-down').click(function(e) {
